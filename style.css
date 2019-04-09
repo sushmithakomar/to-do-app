@@ -1,0 +1,17 @@
+header {
+  justify-content: center;
+  text-align: center;
+}
+
+form {
+  text-align: center;
+}
+
+.list {
+  text-align: center;
+}
+
+.mdl-list {
+  display: inline-block;
+  line-height: 35px;
+}
